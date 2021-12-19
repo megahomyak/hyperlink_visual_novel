@@ -1,0 +1,4 @@
+image = main.png
+lower_text = abc
+flags_to_add = abc
+buttons = go back to main|main

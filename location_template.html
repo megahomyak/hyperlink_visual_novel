@@ -1,0 +1,64 @@
+<style>
+.background {
+    background-color: black;
+    color: white;
+    margin: 0px 10px;
+    height: 100%;
+}
+
+.wrapper_div {
+    margin: 0px 30px;
+    text-align: center;
+    overflow-wrap: break-word;
+}
+
+.upper_text {
+    position: relative;
+    right: 30px;
+}
+
+.image {
+    height: 50%;
+}
+
+.text_div {
+    text-align: left;
+    inline-size: max-content;
+    margin: auto;
+    width: 100%;
+}
+
+.button {
+    color: white;
+    background-color: black;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: block;
+    font-size: 16px;
+    margin: auto;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border: 2px solid white;
+}
+
+.button:hover {
+    color: black;
+    background-color: white;
+}
+</style>
+
+<html>
+    <meta charset="UTF-8">
+    <body class="background">
+        <div class="wrapper_div">
+            <img class="image" src="/files/$image_filename">
+            $item_names
+            <div class="text_div">
+                $upper_text
+                $lower_text
+            </div>
+            $buttons
+        </div>
+    </body>
+</html>

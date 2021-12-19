@@ -1,0 +1,6 @@
+{
+    "host": "127.0.0.1",
+    "port": 8000,
+    "items_list_formattable_string": "<b>Инвентарь:</b> {}",
+    "items_separator": ", "
+}

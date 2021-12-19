@@ -1,0 +1,4 @@
+image = main.png
+upper_text = abc defg
+lower_text = ijgosijfoijsdfijgosijfoijsdfdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+buttons = abc|test
